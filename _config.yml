@@ -1,4 +1,4 @@
-title: Felipe Sierra # your name (or website title) here
+title: Felipe Sierra's homepage # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Chemical Engineer 
@@ -7,6 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/felipe-sierrah/">View My LinkedIn Profile</a> 
   
+theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
